@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+<meta charset="utf-8">
+<title> tabela﻿ Musijowski </title>
+</head>
+<body>
+
+<table border=2> 
+
+<thead>
+<TD bgcolor="000080" COLSPAN=5 ALIGN=CENTER><font color=orange>Dane komputerowe – Musijowski Kamil 2Fg2 </TD>
+</thead>
+
+<thead> 
+<tr> 
+<th ><font color=blue >Model karty graficznej</th> 
+<th ><font color=blue >Taktowanie bazowe</th> 
+<th ><font color=blue >Rozmiar pamięci</th> 
+<th ><font color=blue >Szyna pamięci</th> 
+<th ><font color=blue >Typ chłodzenia</th> 
+</tr>
+</thead>
+<tbody> 
+<tr> 
+<td> <font color=orange > RTX 2080 </td> 
+<td> <font color=red >1515 MHz </td> 
+<td bgcolor="FFC0CB">8 GB</td> 
+<td bgcolor="2ECC71">256-bit</td> 
+<TH ROWSPAN=6 ALIGN=MIDDLE><font color=green>Aktywne </TH>
+</tr> 
+<tr> 
+<td> <font color=orange > RTX 2070</td> 
+<td> <font color=red >1410 MHz</td> 
+<td bgcolor="FFC0CB">8 GB</td> 
+<td bgcolor="2ECC71">256-bit</td> 
+
+</tr> 
+<tr> 
+<td> <font color=orange > RTX 2060</td> 
+<td> <font color=red >1365 MHz</td> 
+<td bgcolor="FFC0CB">8 GB</td> 
+<td bgcolor="2ECC71">192-bit</td> 
+
+</tr> 
+<tr> 
+<td> <font color=orange > RTX 1660</td> 
+<td> <font color=red >1785 MHz</td> 
+<td bgcolor="FFC0CB">8 GB</td> 
+<td bgcolor="2ECC71">192-bit</td> 
+ 
+</tr> 
+<tr> 
+<td> <font color=orange > RTX 1550</td> 
+<td> <font color=red >1860 MHz</td> 
+<td bgcolor="FFC0CB">8 GB</td> 
+<td bgcolor="2ECC71">128-bit</td> 
+ 
+</tr> 
+<tr> 
+<td> <font color=orange > RTX 1060</td> 
+<td> <font color=red >1506 MHz</td> 
+<td bgcolor="FFC0CB">8 GB</td> 
+<td bgcolor="2ECC71">192-bit</td> 
+
+</tr>
+
+<TR>
+<TD bgcolor="000000" COLSPAN=5 ALIGN=CENTER><font color=blue>Dane komputerowe</TD>
+</TR>
+
+</tbody>
+</table>
+
+<br><br>
+<A HREF="index.html"> Wróć </A>
+
+</body>
+</html>
